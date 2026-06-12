@@ -1,4 +1,4 @@
-# Hi, I'm David 👋
+# Hi, I'm DoomIAD 👋
 
 🎓 Senior Computer Science student  
 💻 Making ad free personalized apps for myself  
