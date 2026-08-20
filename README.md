@@ -1,7 +1,7 @@
 # Hi, I'm DoomIAD 👋
 
 💻 Making ad free personalized apps for myself  
-🚀 Focused primarily on Python and C++ development (with a side of SQL/Kotlin)
+🚀 Focused primarily on Python and C++ development (with a side of SQL)
 
 ---
 
@@ -17,12 +17,11 @@ I'm working on a few small projects at a time. Just whatever I need for my daily
 - Python
 - C++
 - SQL
-- HTML
 
 ### Tools & Technologies
 - Android Studio
 - Git / GitHub
 - VS Code
-- MySQL
+- MySQL/SQLite
 
 ---
